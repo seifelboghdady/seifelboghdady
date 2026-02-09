@@ -35,9 +35,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img width="50" height="50" alt="docker" src="https://github.com/user-attachments/assets/168459b1-8195-43c2-b08c-6ac250420262" />
   </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> 
-  </a> 
+ 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
   </a> 
