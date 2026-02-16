@@ -49,6 +49,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> 
   </a> 
+  <a href="https://www.java.org" target="_blank" rel="noreferrer"> 
+     <img width="70" height="70" alt="java" src="https://github.com/user-attachments/assets/0a51d504-4722-408d-a72a-70b7223e0faf" />
+  </a> 
   </p><br>
   
   ---
