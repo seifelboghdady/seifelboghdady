@@ -35,25 +35,15 @@
   <img width="70" height="70" alt="html" src="https://github.com/user-attachments/assets/e9ed0bd7-573a-4fb3-9e97-e5197d056c66" />
   <img width="70" height="70" alt="css" src="https://github.com/user-attachments/assets/0d4351ac-8d59-4f52-aab3-e3398080244f" />
   <img width="70" height="70" alt="js" src="https://github.com/user-attachments/assets/562bf93d-027a-43c5-a488-5cbfec134f98" />
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/> 
-  </a>
+  <img width="70" height="70" alt="java" src="https://github.com/user-attachments/assets/0a51d504-4722-408d-a72a-70b7223e0faf" />
   <br>
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="70"/> 
-  </a> 
-  
   <img width="70" height="70" alt="c+" src="https://github.com/user-attachments/assets/d2371fae-1c9a-41ca-a0b6-0c608ccb716c" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70" height="70"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="70"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> 
+  </p>
   
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> 
-  </a> 
-  <a href="https://www.java.org" target="_blank" rel="noreferrer"> 
-     <img width="70" height="70" alt="java" src="https://github.com/user-attachments/assets/0a51d504-4722-408d-a72a-70b7223e0faf" />
-  </a> 
-  </p><br>
-  
+  <br>
   ---
 <h3 align="left">FrameWork:</h3>
 <p align="left"> 
@@ -70,9 +60,9 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img width="70" height="70" alt="docker" src="https://github.com/user-attachments/assets/168459b1-8195-43c2-b08c-6ac250420262" />
   </a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="70" height="70" alt="icons8-redis-96" src="https://github.com/user-attachments/assets/ff286e36-c3b0-40bd-97cd-5cb7b7771ad6" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> 
   </a> 
