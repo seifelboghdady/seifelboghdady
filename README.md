@@ -28,8 +28,34 @@
 
 ---
 
+### 🚀 Tech Stack
 
-<h3 align="left">Programming Languages:</h3>
+#### 🧑‍💻 Programming Languages
+| HTML | CSS | JavaScript | Java | C++ | TypeScript | C# | Python |
+|------|-----|------------|------|-----|------------|----|--------|
+| <img src="https://github.com/user-attachments/assets/e9ed0bd7-573a-4fb3-9e97-e5197d056c66" width="60"/> | <img src="https://github.com/user-attachments/assets/0d4351ac-8d59-4f52-aab3-e3398080244f" width="60"/> | <img src="https://github.com/user-attachments/assets/562bf93d-027a-43c5-a488-5cbfec134f98" width="60"/> | <img src="https://github.com/user-attachments/assets/0a51d504-4722-408d-a72a-70b7223e0faf" width="60"/> | <img src="https://github.com/user-attachments/assets/d2371fae-1c9a-41ca-a0b6-0c608ccb716c" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/> |
+
+---
+
+#### ⚙️ Frameworks
+| Node.js | Angular |
+|--------|--------|
+| <img src="https://github.com/user-attachments/assets/af97568d-098e-4ce9-9dad-6bc25a1c21bb" width="60"/> | <img src="https://github.com/user-attachments/assets/d3d66bc1-74b1-4660-95d4-52d4fe8ce934" width="60"/> |
+
+---
+
+#### 🗄️ Databases
+| SQL Server | MongoDB |
+|------------|---------|
+| <img src="https://github.com/user-attachments/assets/27026c83-9b8b-4e6f-ba05-fa359ee8570b" width="60"/> | <img src="https://github.com/user-attachments/assets/dce36b00-f0b3-4e10-b8f5-27ddeaa8dfcc" width="60"/> |
+
+---
+
+#### 🧰 Technologies & Tools
+| Docker | Redis | Git |
+|--------|-------|-----|
+| <img src="https://github.com/user-attachments/assets/168459b1-8195-43c2-b08c-6ac250420262" width="60"/> | <img src="https://github.com/user-attachments/assets/ff286e36-c3b0-40bd-97cd-5cb7b7771ad6" width="60"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60"/> |
+<!-- <h3 align="left">Programming Languages:</h3>
 
 <p align="left"> 
   <img width="70" height="70" alt="html" src="https://github.com/user-attachments/assets/e9ed0bd7-573a-4fb3-9e97-e5197d056c66" />
@@ -44,7 +70,11 @@
   </p>
   
   <br>
+
+  
   ---
+
+  
 <h3 align="left">FrameWork:</h3>
 <p align="left"> 
   <img width="70" height="70" alt="node-js" src="https://github.com/user-attachments/assets/af97568d-098e-4ce9-9dad-6bc25a1c21bb" />
@@ -66,11 +96,22 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> 
   </a> 
+</p> -->
+
+---
+
+<!-- <p align = "center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seifelboghdady&" alt="seifelboghdady" />
+</p> -->
+
+<h2 align="center">📊 GitHub Dashboard</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seifelboghdady&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifelboghdady&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
 </p>
 
-
-
-<p align = "center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seifelboghdady&" alt="seifelboghdady" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=seifelboghdady&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
 </p>
 
